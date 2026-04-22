@@ -8,7 +8,7 @@ Contenido del repositorio
 -------------------------
 - `src/` — código fuente Java.
 - `IMG_0952.jpeg` — fotografía/escaneo del diagrama de clases entregado a mano.
-- `DiagramaClasesNotificaciones` — fotografía/escaneo del diagrama de clases entregado a mano para descargar con mayor calidad.
+- `DiagramaClasesNotificaciones.heic` — fotografía/escaneo del diagrama de clases entregado a mano para descargar con mayor calidad.
 - `README.md` — este documento.
 Objetivo
 --------
