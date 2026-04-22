@@ -7,10 +7,9 @@ Proyecto en Java que implementa un sistema de notificaciones para una universida
 Contenido del repositorio
 -------------------------
 - `src/` — código fuente Java.
-- `diagramas/diagrama_clases.jpg` — fotografía/escaneo del diagrama de clases entregado a mano.
+- `IMG_0952.jpeg` — fotografía/escaneo del diagrama de clases entregado a mano.
+- `DiagramaClasesNotificaciones` — fotografía/escaneo del diagrama de clases entregado a mano para descargar con mayor calidad.
 - `README.md` — este documento.
-- `.gitignore` — reglas para ignorar archivos locales/IDE/build.
-
 Objetivo
 --------
 Entregar un diseño orientado a objetos que:
